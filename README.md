@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at George Mason University.
-- 💼 &nbsp; Working as a Software Engineer Intern at Capital One.
+- 💼 &nbsp; Worked as a Software Engineer Intern at Capital One and Leidos.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Full Stack Development and Machine Learning.
-- ✍️ &nbsp; Pursuing Front End Development and AWS Certifications.
+- ✍️ &nbsp; Pursuing Front End Development, Back End Development, and AWS Certifications.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
