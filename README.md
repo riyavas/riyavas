@@ -11,7 +11,7 @@
 
 ```javascript
 const riya = {
-    code: ["Python", "Java", "C", "Javascript", "Typescript", "HTML", "CSS"],
+    code: ["Python", "Java", "C", "Swift", "Javascript", "Typescript", "HTML", "CSS"],
     technologies: {
         frontEnd: {
             js: ["React", "Angular"],
