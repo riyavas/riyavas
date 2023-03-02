@@ -2,8 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science at George Mason University.
-- 💼 &nbsp; Worked as a Software Engineer Intern at Capital One and Leidos.
+- 🎓 &nbsp; Master's Graduate in Computer Science from George Mason University.
+- 💼 &nbsp; Currently a Site Reliability Engineer at Microsoft.
+- 💻 &nbsp; Worked as a Software Engineer Intern at Capital One and Leidos.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Full Stack Development and Machine Learning.
 - ✍️ &nbsp; Pursuing Front End Development, Back End Development, and AWS Certifications.
 
