@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Master's Graduate in Computer Science from George Mason University.
-- 💼 &nbsp; Currently a Site Reliability Engineer at Microsoft.
+- 💼 &nbsp; Currently a Software Engineer at Microsoft.
 - 💻 &nbsp; Worked as a Software Engineer Intern at Capital One and Leidos.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Full Stack Development and Machine Learning.
 - ✍️ &nbsp; Pursuing Front End Development, Back End Development, and AWS Certifications.
@@ -12,7 +12,7 @@
 
 ```javascript
 const riya = {
-    code: ["Python", "Java", "C", "Swift", "Javascript", "Typescript", "HTML", "CSS"],
+    code: ["Python", "Java", "C", "C#", "C++", "Swift", "Javascript", "Typescript", "HTML", "CSS"],
     technologies: {
         frontEnd: {
             js: ["React", "Angular"],
