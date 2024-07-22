@@ -6,7 +6,7 @@
 - 💼 &nbsp; Currently a Software Engineer at Microsoft.
 - 💻 &nbsp; Worked as a Software Engineer Intern at Capital One and Leidos.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Full Stack Development and Machine Learning.
-- ✍️ &nbsp; Pursuing Front End Development, Back End Development, and AWS Certifications.
+- ✍️ &nbsp; Pursuing Full Stack Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -15,17 +15,18 @@ const riya = {
     code: ["Python", "Java", "C", "C#", "C++", "Swift", "Javascript", "Typescript", "HTML", "CSS"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular"],
-            css: ["Materialize", "UI Kit", "Bootstrap"]
+            js: ["React", "Angular", "NextJS"],
+            css: ["Tailwind", "Bootstrap", "Flunet UI"]
         },
         backEnd: {
-            java: ["Spring", "Jersey", "Hibernate", "Struts"],
-            js: ["NodeJS", "CommerceJS"],
+            java: ["Spring", "Jersey", "Hibernate"],
+            js: ["NodeJS", "Express"],
             python: ["Scikit-learn", "Pandas", "Numpy", "NLTK"]
         },
         mobileApp: ["Android", "iOS"],
-        devOps: ["AWS", "Docker", "Kubernetes"],
-        databases: ["MongoDB", "MySql", "AWS RDS"],
+        devOps: ["Docker", "Kubernetes"],
+        cloud: ["AWS", "Azure"],
+        databases: ["MongoDB", "MySql"]
     },
 };
 ```
